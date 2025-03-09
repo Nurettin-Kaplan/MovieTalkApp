@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddMovieScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddUserScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Application.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteMovieScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteUserScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminLoginScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MailCodeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MovieDetailsScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowMovieDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignInScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RefreshPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserDetailsScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
