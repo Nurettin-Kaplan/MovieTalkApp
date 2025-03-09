@@ -18,9 +18,9 @@ MovieTalkApp is a movie review and commenting application developed with Windows
    git clone https://github.com/Nurettin-Kaplan/MovieTalkApp.git
    ```
 2. **Create the SQL Database:**
-   - Run the `MovieTalkDB.sql` file to create the necessary tables.
+   - Run the `CreateDatabaseAndTables.sql` file to create the necessary tables.
 3. **Update the connection strings:**
-   - Modify the `connectionString` value in the `App.config` file to match your SQL server.
+   - Change the `connectionString` value to match your SQL server.
 4. **Build and run the project.**
 
 ## Usage
